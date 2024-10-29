@@ -5,6 +5,8 @@ show_date: true
 comments: true
 classes: wide
 date: 2022-07-9 08:52
+tags: [System Design]
+categories: [System Design]
 ---
 #### Fundamentals of System Design
 ##### A beginners guide to system design(Part 1)

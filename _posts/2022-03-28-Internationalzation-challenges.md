@@ -5,6 +5,8 @@ show_date: true
 comments: true
 classes: wide
 date: 2022-03-25 08:52
+tags: [System Design]
+categories: [System Design]
 ---
 ####  The main challenges of software Internationalization
 

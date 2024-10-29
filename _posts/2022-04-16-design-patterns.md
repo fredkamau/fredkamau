@@ -5,6 +5,8 @@ show_date: true
 comments: true
 classes: wide
 date: 2022-04-16 08:52
+tags: [Design Patterns, System Design]
+categories: [Design Patterns, System Design]
 ---
 #### 10 Design Patterns that every developer should know
 ##### How to write reusable and extensible object-oriented software - (Part One)

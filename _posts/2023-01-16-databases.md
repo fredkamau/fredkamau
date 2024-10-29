@@ -4,6 +4,8 @@ comments: true
 show_date: true
 comments: true
 classes: wide
+tags: [System Design]
+categories: [System Design]
 ---
 
 ## The components of system design
