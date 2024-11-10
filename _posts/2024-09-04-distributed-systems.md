@@ -4,6 +4,8 @@ comments: true
 show_date: true
 comments: true
 classes: wide
+image:
+    path: /assets/images/distributed.jpg
 tags: [System Design]
 categories: [System Design]
 ---
@@ -87,7 +89,7 @@ cryptocurrencies like Bitcoin leverages on the blockchain technology. Here distr
 
 `If you can avoid building a distributed system, avoid it… Distributed systems are notoriously difficult to reason about.`
 
-Large scale applications like Google Search is not distributed for fun, the team had no choice but to scale. Only use distributed systems when you need to handle a high volumes of data or users, when high availability is crucial or when you need to perform large scale data processing. However due to their complexity overhead, avoid them when a centralized system can meet performance needs, when availability is not crucial or when user and geographical demand is limited.
+Large scale applications like Google Search are not distributed for fun, the team had no choice but to scale. Only use distributed systems when you need to handle a high volumes of data or users, when high availability is crucial or when you need to perform large scale data processing. However due to their complexity overhead, avoid them when a centralized system can meet performance needs, when availability is not crucial or when user and geographical demand is limited.
 
 ## Thank You!
 
