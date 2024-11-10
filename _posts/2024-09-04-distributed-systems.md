@@ -42,7 +42,6 @@ The nodes in a distributed systems can be arranged in the following forms:
 
 
 
-
 ## What's the difference between micro services and distributed systems?
 1. **Distributed Systems**
 
@@ -63,11 +62,11 @@ The nodes in a distributed systems can be arranged in the following forms:
 
 This is the largest and the most complex distributed system. Servers, router and devices worldwide interact to deliver information to billions of users.
 
-2. **Artificial intelligence and Machine learning**
+**2. Artificial intelligence and Machine learning**
 
  These are the most exciting and rapidly developing technologies today. AI and ML algorithms require enormous data to trains their models. Working with such vast amount of data and performing complex computations is not feasible using traditional computing models. Therefore, distributed computing comes in handy for faster computation e.g training neural networks.
  
-3. **Scientific research and High Performance Computing(HPC)**
+**3. Scientific research and High Performance Computing(HPC)**
 These fields require enormous computational resources to solve complex scientific problems. An example is the human genome project which was used to analyze large-scale DNA sequences. This project involved processing and analyzing a large amount of genetic data which was distributed across multiple nodes for faster computation.
 
 **4. Financial Services**
@@ -76,7 +75,7 @@ Financial services deal with vast amount of data.  A notable example is fund man
 **5. IOT**
 Internet of things generates large amounts of data which needs to be processed and analyzed in real time.
 
-6. **Blockchain and Cryptocurrencies.**
+**6. Blockchain and Cryptocurrencies.**
 
 In blockchain, data is stored across a network of computers which all maintain a copy of the entire blockchain. This ensures the data is secure and resistant to tampering.
 cryptocurrencies like Bitcoin leverages on the blockchain technology. Here distributed computing is used to process transactions and maintain the blockchain. It involves solving complex mathematical problems which are distributed.
