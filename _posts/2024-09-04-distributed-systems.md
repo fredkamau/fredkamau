@@ -9,9 +9,9 @@ image:
 tags: [System Design]
 categories: [System Design]
 ---
-# Fundamentals of System Design Chapter 11: Distributed Systems
+<!-- # Fundamentals of System Design Chapter 11: Distributed Systems -->
 
-![][image_ref_dfy7fi8h]
+<!-- ![][image_ref_dfy7fi8h] -->
 ## Introduction
 
 In the last couple of years, there has been a lot of advancement in how systems are developed. Applications that we use everyday like Google Search, YouTube, Twitter, Instagram etc process billion of requests everyday. Chances are, when they were starting out, their architecture was centralized. All the components were probably running on a single server. As the business and the user base grew, the limitations of this architecture became more pronounced. They faced the challenge of scaling up to meet the ever-increasing demands.The applications experienced scalability issues, high latency, increased downtime and inefficiency in handling large amount of data and user requests.
