@@ -8,7 +8,7 @@ tags: [System Design]
 categories: [System Design]
 ---
 
-# Fundamentals of System Design Chapter 10: Message Queues
+<!-- # Fundamentals of System Design Chapter 10: Message Queues -->
 ## Introduction 
 ### Real World Problem
 Imagine a popular restaurant with lots of customers at it's busiest hour. All the customers want to get meals the moment they walk in. It could be chaotic if the restaurant does not have a system in place to manage the orders. This means mistakes might be made in the kitchen and some orders might be missed. As a customer you wouldn't want to see someone get their meal before you and you came in before them right? An ordering system is therefore needed to make the service organized.
